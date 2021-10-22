@@ -39,7 +39,7 @@ Inicie
 
 - [@Heitor Stein](https://github.com/hhs0001)
 
-- [@Nome](linkGit)
+- [@Pedro Domene](https://github.com/Preru01)
 ## Licença
 
 Projeto feito com a licença [MIT](https://github.com/hhs0001/CasoLinear/blob/main/LICENSE)
