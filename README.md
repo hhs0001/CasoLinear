@@ -6,7 +6,7 @@ Um trabalho da faculdade de engenharia da cumputação (FACAMP) referente a dici
 
 ![Node Version](https://img.shields.io/badge/node-%3E%3D16.6.2-blue.svg)
 ![NPM Version](https://img.shields.io/badge/npm-%3E%3D7.20.3-blue.svg)
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/hhs0001/MetodoDeNewtonRaphson/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/hhs0001/CasoLinear/blob/main/LICENSE)
 
 ## Iniciar o projeto
 

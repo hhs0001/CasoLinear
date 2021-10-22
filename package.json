@@ -1,0 +1,25 @@
+{
+  "name": "casolinear",
+  "version": "1.0.0",
+  "description": "Um trabalho da faculdade de engenharia da cumputação (FACAMP) referente a diciplina Cálculo Numérico e Programação Matemática.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhs0001/CasoLinear.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhs0001/CasoLinear/issues"
+  },
+  "homepage": "https://github.com/hhs0001/CasoLinear#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "terminal-kit": "^2.1.8"
+  }
+}
